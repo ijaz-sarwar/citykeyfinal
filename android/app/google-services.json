@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104993972799",
+    "project_id": "citykey-45284",
+    "storage_bucket": "citykey-45284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104993972799:android:3584905bf67ef110564e8a",
+        "android_client_info": {
+          "package_name": "com.citykey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104993972799-fhkinj1uuu0131f6fgbkscl4ejigclbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqrqx4jFCrdXE5TKTTeQRhVlOpJWICec4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104993972799-fhkinj1uuu0131f6fgbkscl4ejigclbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
